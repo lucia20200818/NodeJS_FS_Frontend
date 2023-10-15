@@ -1,4 +1,4 @@
-# NodeJS Full stack Frontend
+# NodeJS Full Stack Frontend
 # To run Project
 
 '''hell
